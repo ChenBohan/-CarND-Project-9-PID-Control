@@ -1,4 +1,4 @@
-# CarND-Controls-PID
+# CarND-Project-9-PID-Control
 Self-Driving Car Engineer Nanodegree Program
 
 ## Reference
