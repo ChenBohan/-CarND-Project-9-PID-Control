@@ -1,7 +1,13 @@
 # CarND-Controls-PID
 Self-Driving Car Engineer Nanodegree Program
 
----
+## Reference
+
+[CarND-17-Motion-Planning-PID-Control](https://github.com/ChenBohan/CarND-17-Motion-Planning-PID-Control)
+
+## Simulation
+
+<img src="https://github.com/ChenBohan/CarND-Project-9-PID-Control/blob/master/pid_gif.gif" width = "100%" height = "100%" div align=center />
 
 ## Dependencies
 
